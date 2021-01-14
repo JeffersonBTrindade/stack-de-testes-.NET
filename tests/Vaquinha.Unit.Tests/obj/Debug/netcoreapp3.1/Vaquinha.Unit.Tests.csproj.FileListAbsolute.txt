@@ -1,0 +1,4 @@
+C:\Users\Jefferson\Desktop\AVANADE\dotnet-vaquinha-tests-master\tests\Vaquinha.Unit.Tests\obj\Debug\netcoreapp3.1\Vaquinha.Unit.Tests.csprojAssemblyReference.cache
+C:\Users\Jefferson\Desktop\AVANADE\dotnet-vaquinha-tests-master\tests\Vaquinha.Unit.Tests\obj\Debug\netcoreapp3.1\Vaquinha.Unit.Tests.AssemblyInfoInputs.cache
+C:\Users\Jefferson\Desktop\AVANADE\dotnet-vaquinha-tests-master\tests\Vaquinha.Unit.Tests\obj\Debug\netcoreapp3.1\Vaquinha.Unit.Tests.AssemblyInfo.cs
+C:\Users\Jefferson\Desktop\AVANADE\dotnet-vaquinha-tests-master\tests\Vaquinha.Unit.Tests\obj\Debug\netcoreapp3.1\Vaquinha.Unit.Tests.csproj.CoreCompileInputs.cache

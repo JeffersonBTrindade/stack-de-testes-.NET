@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Vaquinha.Domain",
+    "\\src\\Vaquinha.Domain\\Entities",
+    "\\src\\Vaquinha.Domain\\ViewModels",
+    "\\tests",
+    "\\tests\\Vaquinha.Tests.Common",
+    "\\tests\\Vaquinha.Tests.Common\\Fixtures",
+    "\\tests\\Vaquinha.Unit.Tests",
+    "\\tests\\Vaquinha.Unit.Tests\\DomainTests"
+  ],
+  "PreviewInSolutionExplorer": false
+}
